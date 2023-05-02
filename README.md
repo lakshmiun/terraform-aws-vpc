@@ -14,3 +14,6 @@ and an internet gateway to allow communication between the resources in your VPC
 
 ### Subnets
 A subnet is a range of IP addresses in your VPC. A subnet must reside in a single Availability Zone. After you add subnets, you can deploy AWS resources in your VPC
+
+### Routing
+Use route tables to determine where network traffic from your subnet or gateway is directed.
