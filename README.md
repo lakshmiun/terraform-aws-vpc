@@ -1,5 +1,5 @@
 # terraform-aws-vpc
-###### Terraform module which creates VPC resources on AWS 
+## Terraform module which creates VPC resources on AWS 
 
 A VPC is an isolated network you create in the AWS cloud, similar to a traditional network in a data center. When you create a VPC, you need to choose three main things. 
 
