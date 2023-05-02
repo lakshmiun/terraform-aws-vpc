@@ -12,5 +12,5 @@ A VPC is an isolated network you create in the AWS cloud, similar to a tradition
 The VPC has one subnet in each of the Availability Zones in the Region, EC2 instances in each subnet, 
 and an internet gateway to allow communication between the resources in your VPC and the internet.
 
-###Subnets
+### Subnets
 A subnet is a range of IP addresses in your VPC. A subnet must reside in a single Availability Zone. After you add subnets, you can deploy AWS resources in your VPC
